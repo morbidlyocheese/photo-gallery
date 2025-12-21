@@ -2,6 +2,11 @@
 
 photo gallery app
 
+## adding new photos
+- add new photos to `src/assets/photos`
+- rename photo to next available number (e.g. `10.jpg`)
+- customize photo metadata in `src/assets/photos.json`
+
 
 ## Project Setup
 

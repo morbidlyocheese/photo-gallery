@@ -1,10 +1,10 @@
 /**
- * Customize captions and names for specific images
- * Key: filename (with or without extension), Value: { caption, name }
+ * customize captions and names for specific images
+ * key: filename (with or without extension), Value: { caption, name }
  */
 const customizations = {
-  // Example:
   '1': { caption: 'cityscape', name: 'city' },
+  // Example:
   // '2': { caption: 'Forest Path', name: 'Forest' },
 }
 
