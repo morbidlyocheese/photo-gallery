@@ -3,7 +3,7 @@
  * key: filename (with or without extension), Value: { caption, name }
  */
 const customizations = {
-  '1': { caption: 'cityscape', name: 'city' },
+  '1': { caption: 'cloud', name: 'cloud' },
   // Example:
   // '2': { caption: 'Forest Path', name: 'Forest' },
 }
